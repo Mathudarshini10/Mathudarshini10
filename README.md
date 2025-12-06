@@ -28,21 +28,12 @@ Welcome to my GitHub! I'm passionate about exploring **Cloud Computing**, improv
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="160px" />
-</p>
 
-> 🔄 Replace **YOUR_GITHUB_USERNAME** with your actual GitHub username.
-
----
+![Mathudarshini10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathudarshini10&show_icons=true&theme=radical)
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" />
-</p>
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Mathudarshini10&theme=radical)
 
 ## 🧰 Tools I Use
 <p>
