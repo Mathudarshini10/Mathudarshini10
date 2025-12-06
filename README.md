@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi there! I'm **Mathu Darshini**
 
-<!--
-**Mathudarshini10/Mathudarshini10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Computer Science Student | Cloud Computing Enthusiast  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about exploring **Cloud Computing**, improving my skills in programming, and learning new technologies every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 **Computer Science student**
+- ☁️ Interested in **Cloud Computing**
+- 📘 Learning: *Cloud basics & core cloud computing concepts*
+- 💡 Curious, motivated, and eager to grow in the tech world  
+
+---
+
+## 🛠️ Skills & Technologies
+### 🔹 Programming Languages
+- **C**
+- **Java**
+- **Python**
+
+### 🔹 Areas of Interest
+- Cloud Fundamentals  
+- Cloud Architecture Concepts  
+- Modern Computing Technologies  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="160px" />
+</p>
+
+> 🔄 Replace **YOUR_GITHUB_USERNAME** with your actual GitHub username.
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🧰 Tools I Use
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- **Email:** *mathudarshinit@gmail.com*
+- **LinkedIn:**  
+  [Click here to connect](https://www.linkedin.com/in/mathu-darshini?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+<p>
+  <a href="https://www.linkedin.com/in/mathu-darshini?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Fun Facts About Me
+- 🌱 Always learning something new in tech  
+- ☁️ Cloud computing is my favorite field  
+- 💻 Love to explore programming and problem-solving  
+
+---
+
+## ⭐ Thank You for Visiting!
+Feel free to explore my repositories — contributions and feedback are always welcome 😊
