@@ -28,14 +28,6 @@ Welcome to my GitHub! I'm passionate about exploring **Cloud Computing**, improv
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathudarshini10&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathudarshini10&layout=compact&theme=radical" height="160px" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mathudarshini10&theme=radical" />
