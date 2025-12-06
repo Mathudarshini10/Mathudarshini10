@@ -43,7 +43,3 @@ Welcome to my GitHub! I'm passionate about exploring **Cloud Computing**, improv
 
 ---
 
-## 🧰 Tools I Use
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logo
