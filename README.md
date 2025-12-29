@@ -28,15 +28,7 @@ Welcome to my GitHub! I'm passionate about exploring **Cloud Computing**, improv
 
 ---
 
-## 📊 GitHub Stats
 
-![Mathudarshini10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathudarshini10&show_icons=true&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mathudarshini10&theme=radical)
-
----
 
 ## 🧰 Tools I Use
 <p>
