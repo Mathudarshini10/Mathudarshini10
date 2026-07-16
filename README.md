@@ -1,12 +1,8 @@
-<!-- ==========================
-      GitHub Profile README
-========================== -->
-
 <div align="center">
 
 # ✨ Hey, I'm **Mathu Darshini** 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Cloud+Computing+Explorer;Learning+One+Step+at+a+Time;Future+Cloud+Engineer+☁️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Cloud+Computing+Explorer;Future+Cloud+Engineer;Learning+Something+New+Everyday" />
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Cloud%20Computing-0EA5E9?style=for-the-badge"/>
@@ -14,86 +10,92 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-F97316?style=for-the-badge"/>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Mathudarshini10&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
 </div>
 
 ---
 
-# 🌸 About Me
+# 👩‍💻 About Me
 
 ```yaml
 Name: Mathu Darshini
-Education: Computer Science Student
+Education: B.E. Computer Science Engineering
 Location: India 🇮🇳
+
 Current Focus:
   - Cloud Computing
   - Programming
   - Software Development
-Dream Role:
-  - Cloud Engineer ☁️
+
+Languages:
+  - C
+  - Java
+  - Python
+
+Career Goal:
+  - Become a Cloud Engineer ☁️
+
 Motto:
-  - Learn → Build → Improve → Repeat
+  - Learn • Build • Grow • Repeat
 ```
 
-I believe every new technology is an opportunity to grow. I'm passionate about learning, building practical projects, and continuously improving my programming and cloud computing skills.
+I am a Computer Science student passionate about **Cloud Computing**, **Software Development**, and **Modern Technologies**.
+
+I enjoy learning new technologies, solving programming problems, and building projects that help me improve my technical skills. My goal is to become a skilled Cloud Engineer and contribute to innovative technology solutions.
 
 ---
 
-# 🚀 Tech Toolbox
+# 🚀 Tech Stack
 
-<div align="center">
+### 👨‍💻 Programming Languages
 
-### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,java,python" />
+### 🛠 Tools & Technologies
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-# ☁️ Learning Journey
-
-```text
-Cloud Computing      █████████░░░░░ 60%
-
-Python               ██████████░░░░ 70%
-
-Java                 █████████░░░░░ 65%
-
-C Programming        ███████████░░░ 75%
-
-Git & GitHub         █████████░░░░░ 65%
-```
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Currently Learning
 
-- ☁️ Cloud Fundamentals
+- ☁️ Cloud Computing Fundamentals
 - 🏗 Cloud Architecture
 - 💻 Software Development
 - 🧩 Problem Solving
-- 📚 Data Structures
 - 🌐 Computer Networks
+- 🗄 Database Management Systems
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathudarshini10&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathudarshini10&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mathudarshini10&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathudarshini10&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -101,28 +103,33 @@ Git & GitHub         █████████░░░░░ 65%
 
 # 🎯 2026 Goals
 
-- ☁️ Learn Cloud Computing in depth
-- 🚀 Build real-world cloud projects
-- 📜 Earn cloud certifications
-- 💡 Contribute to open source
-- 💻 Improve problem-solving skills
-- 🌍 Build projects that help people
+✅ Master Cloud Computing
+
+✅ Build Real-World Projects
+
+✅ Earn Cloud Certifications
+
+✅ Contribute to Open Source
+
+✅ Improve Data Structures & Algorithms
+
+✅ Secure a Cloud Engineering Internship
 
 ---
 
-# 💭 A Few Things About Me
+# 💡 Fun Facts
 
-✨ I enjoy learning something new every day.
+🌱 Learning something new every day.
 
-☁️ Cloud Computing fascinates me because it powers the modern digital world.
+☁️ Cloud Computing is my favorite domain.
 
-💡 I believe consistency beats perfection.
+💻 I enjoy solving programming challenges.
 
-🚀 Every project teaches something valuable.
+🚀 Every project is a new learning experience.
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -138,16 +145,16 @@ Git & GitHub         █████████░░░░░ 65%
 
 ---
 
+# 💭 Quote
+
+> **"Success doesn't come from knowing everything. It comes from never stopping the learning process."**
+
+---
+
 <div align="center">
 
-## 🌟 Philosophy
+### ⭐ Thanks for visiting my GitHub Profile!
 
-> **"Great engineers aren't born—they're built through curiosity, consistency, and continuous learning."**
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
-
-### ⭐ Thanks for visiting my profile!
-
-*"Every line of code brings me one step closer to becoming the engineer I aspire to be."*
+*"Code with curiosity. Learn with passion. Build with purpose."* 🚀
 
 </div>
