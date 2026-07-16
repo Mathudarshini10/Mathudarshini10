@@ -114,6 +114,5 @@ I enjoy learning new concepts, building my programming skills, and exploring inn
 
 *"Keep learning, keep building, and keep growing."*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
