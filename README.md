@@ -20,8 +20,8 @@
 
 ```yaml
 Name: Mathu Darshini
-Education: B.E. Computer Science Engineering
-Location: India 🇮🇳
+Education: B.Sc Computer Science Engineering
+Location: Coimbatore
 
 Current Focus:
   - Cloud Computing
